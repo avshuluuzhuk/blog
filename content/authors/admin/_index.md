@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ayraana Shuluuzhuk
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ayraana 
+last_name: Shuluuzhuk
 
 # Status emoji
 status:
@@ -14,34 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peoples' Friendship University of Russia
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Information Technology
+  - Learning foreign languages
+  - Traveling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Applied computer science
+      institution: Peoples' Friendship University of Russia
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ayraana Shuluuzhuk is a student of applied computer science course at the Peoples' Friendship University of Russia. She graduated from high school with excellent marks, and is a winner and participant of mathematics olympiads and scientific conferences. In addition, she is engaged in swimming and archery. 
 {style="text-align: justify;"}
