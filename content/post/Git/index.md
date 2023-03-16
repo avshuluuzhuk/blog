@@ -3,12 +3,12 @@
 
 title: "Git"
 subtitle: "Version control systems"
-summary: ""
+summary: "Version control systems"
 authors: [Ayraana Shuluuzhuk]
 tags: []
 categories: []
-date: 2023-03-16T20:40:35+03:00
-lastmod: 2023-03-16T20:40:35+03:00
+date: 2023-03-16T21:21:27+03:00
+lastmod: 2023-03-16T21:21:27+03:00
 featured: false
 draft: false
 

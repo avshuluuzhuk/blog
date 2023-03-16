@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "My last week"
-subtitle: ""
-summary: ""
+subtitle: "How I spent last week"
+summary: "How I spent last week"
 authors: [Ayraana Shuluuzhuk]
 tags: []
 categories: []
