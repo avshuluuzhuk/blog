@@ -48,7 +48,7 @@ social:
     link: https://github.com/avshuluuzhuk
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/channel/UCieQ4wBH2PWb13Ywkxue-rw/
+    link: 
     
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -57,5 +57,5 @@ email: ''
 highlight_name: true
 ---
 
-Ayraana Shuluuzhuk is a student of applied computer science course at the Peoples' Friendship University of Russia. She graduated from high school with excellent marks, and is a winner and participant of mathematics olympiads and scientific conferences. In addition, she is engaged in swimming and archery. 
+Ayraana Shuluuzhuk is a student of applied computer science course at the Peoples' Friendship University of Russia. She graduated from high school with excellent marks, and is a winner and participant of mathematics olympiads and scientific conferences.
 {style="text-align: justify;"}

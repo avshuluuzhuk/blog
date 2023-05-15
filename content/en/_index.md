@@ -16,7 +16,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: Programming
+        - name: Programming C++
           description: 40%
           icon: python
           icon_pack: fab

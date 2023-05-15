@@ -48,7 +48,7 @@ social:
     link: https://github.com/avshuluuzhuk
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/channel/UCieQ4wBH2PWb13Ywkxue-rw/
+    link: 
     
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -57,6 +57,6 @@ email: ''
 highlight_name: true
 ---
 
-Айраана Шулужук — студентка курса прикладной информатики Российского университета дружбы народов. Окончила школу на отлично, является участником математических олимпиад и научных конференций. Также занимается плаванием и стрельбой из лука.
+Айраана Шулужук — студентка курса прикладной информатики Российского университета дружбы народов. Окончила школу на отлично, является участником математических олимпиад и научных конференций.
 
 {style="text-align: justify;"}
